@@ -1,3 +1,5 @@
 Hello Everyone
 how are you?
 lets learn some concepts mashine learning
+linear regression 
+logistics regression
